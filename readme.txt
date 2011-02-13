@@ -9,11 +9,11 @@ Last Uploaded Images Widget shows latest images you have uploaded to your site. 
 
 == Description ==
 
-Last Uploaded Images Widget shows latest images you have uploaded to your site. You have the option of setting title, count, item width and height. Widget is very simple, but you have the option of editing it’s looks via included stylesheet.
+Widget is very simple, but you have the option of editing it's looks via included stylesheet.
 
 All icons have links to full sized image. The images shown are resized versions of originals, not thumbnails generated to size, so they will make your site load a bit longer.
 
-[Check out]( http://www.wpgears.com/last-uploaded-images-widget/) for more info
+Check out [ wpgears.com ]]( http://www.wpgears.com/last-uploaded-images-widget/) for more info.
 
 == Installation ==
 
@@ -25,12 +25,11 @@ All icons have links to full sized image. The images shown are resized versions 
 
 == Frequently Asked Questions ==
 
-Sorry, nothing yet
+Sorry, nothing yet.
 
 == Screenshots ==
 
-
-[Check out]( http://www.wpgears.com/last-uploaded-images-widget/) for screenshots
+Check out [wpgears.com ]( http://www.wpgears.com/last-uploaded-images-widget/) for screenshots.
 
 == Changelog ==
 
