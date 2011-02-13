@@ -1,6 +1,5 @@
 === Last Uploaded Images Widget ===
 Contributors: wpgears
-Donate link: http://example.com/
 Tags: upload, media, images, thumbs, widget
 Requires at least: 2.8
 Tested up to: 3.0.5
