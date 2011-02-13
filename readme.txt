@@ -13,11 +13,11 @@ Widget is very simple, but you have the option of editing it's looks via include
 
 All icons have links to full sized image. The images shown are resized versions of originals, not thumbnails generated to size, so they will make your site load a bit longer.
 
-Check out [ wpgears.com ]]( http://www.wpgears.com/last-uploaded-images-widget/) for more info.
+Check out [ wpgears.com ]( http://www.wpgears.com/last-uploaded-images-widget/) for more info.
 
 == Installation ==
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload plugin folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Drag widget to your sidebar in Widgets page on your wp-admin.
 4. Configure settings
@@ -29,7 +29,7 @@ Sorry, nothing yet.
 
 == Screenshots ==
 
-Check out [wpgears.com ]( http://www.wpgears.com/last-uploaded-images-widget/) for screenshots.
+Check out [wpgears.com](http://www.wpgears.com/last-uploaded-images-widget/) for screenshots.
 
 == Changelog ==
 
